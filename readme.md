@@ -6,7 +6,7 @@ Hotel Booking site written in HTML and CSS
 
 <br>
 
-Visit website here (https://saeed7865.github.io/Hotel-project/)
+Visit website [here](https://saeed7865.github.io/Hotel-project/)
 
 <br>
 
